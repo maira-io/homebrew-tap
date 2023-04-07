@@ -1,6 +1,6 @@
 cask "mpl" do
   version "0.9.0"
-  sha256 "69fe2b9c7bbc5ab4087ae7fff63f0390e0c5af4f783cfe5336c12cce1b6d03bc"
+  sha256 "18193f13a60525228952e13140a7f9d9750a49a08261730537aa742559a0d128"
 
   url "https://github.com/maira-io/mpl-release/releases/download/v#{version}/mpl-#{version}-darwin-universal.zip"
   name "Mpl repl"

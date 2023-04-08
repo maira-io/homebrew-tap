@@ -1,5 +1,5 @@
 # homebrew-tap
-mpl tap:
+maira homebrew tap to install maira binaries like `mpl`:
 
 To install:
 ```
